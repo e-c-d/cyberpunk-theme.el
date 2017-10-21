@@ -649,7 +649,7 @@
    `(whitespace-hspace ((,class (:background ,cyberpunk-bg :foreground ,cyberpunk-bg+1))))
    `(whitespace-tab ((,class (:background ,cyberpunk-bg :foreground ,cyberpunk-red))))
    `(whitespace-newline ((,class (:foreground ,cyberpunk-bg+1))))
-   `(whitespace-trailing ((,class (:foreground ,cyberpunk-red :background ,cyberpunk-bg))))
+   `(whitespace-trailing ((,class (:foreground ,cyberpunk-red :background ,cyberpunk-red-2))))
    `(whitespace-line ((,class (:background ,cyberpunk-bg-05 :foreground ,cyberpunk-magenta))))
    `(whitespace-space-before-tab ((,class (:background ,cyberpunk-orange :foreground ,cyberpunk-orange))))
    `(whitespace-indentation ((,class (:background ,cyberpunk-yellow :foreground ,cyberpunk-red))))
